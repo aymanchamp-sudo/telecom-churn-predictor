@@ -1,4 +1,5 @@
 {
+  "name": "telecom-churn-predictor",
   "homepage": "https://aymanchamp-sudo.github.io/telecom-churn-predictor",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-     "predeploy": "npm run build",
+    "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
